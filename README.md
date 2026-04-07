@@ -17,5 +17,5 @@ Centralizar informações sobre equipes de Fórmula 1 em um único lugar, facili
 * JavaScript
 * API Externa
 
-##Stitch
+## Stitch
 https://stitch.withgoogle.com/preview/15716766494817007963?node-id=08d90bcc04cc4718a56a5f3ac26d2478
