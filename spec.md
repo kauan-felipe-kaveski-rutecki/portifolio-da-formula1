@@ -1,3 +1,22 @@
+# Especificação Técnica - F1 Teams Hub
+
+## Tecnologias
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+## Framework CSS
+- Bootstrap v5.3.3
+
+## API Externa
+- Ergast API (v1)
+- https://ergast.com/api/f1/
+- Endpoint: /current/driverStandings.json
+
+---
+
+## Modelagem de Dados
+
 ```mermaid
 erDiagram
     EQUIPE ||--o{ PILOTO : possui
@@ -14,4 +33,3 @@ erDiagram
         string nome
         int numero
     }
-```
