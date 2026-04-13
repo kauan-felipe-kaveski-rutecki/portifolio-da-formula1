@@ -10,8 +10,8 @@
 
 ## API Externa
 - Ergast API (v1)
-- https://ergast.com/api/f1/
-- Endpoint: /current/driverStandings.json
+- Base URL: https://api.jolpi.ca/ergast/f1/
+- Endpoint: https://api.jolpi.ca/ergast/f1/current/driverStandings.json
 
 ---
 
