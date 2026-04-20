@@ -1,0 +1,23 @@
+{
+  "name": "portifolio-da-formula1",
+  "version": "1.0.0",
+  "description": "Aplicação web para visualizar informações sobre equipes de Fórmula 1, incluindo história, títulos e pilotos. O sistema também utiliza uma API para exibir dados atualizados do campeonato.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kauan-felipe-kaveski-rutecki/portifolio-da-formula1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kauan-felipe-kaveski-rutecki/portifolio-da-formula1/issues"
+  },
+  "homepage": "https://github.com/kauan-felipe-kaveski-rutecki/portifolio-da-formula1#readme",
+  "dependencies": {
+    "axios": "^1.15.1"
+  }
+}
