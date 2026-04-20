@@ -41,3 +41,13 @@ A API será utilizada na página de classificação para exibir dados atualizado
 
 ## Stitch
 https://stitch.withgoogle.com/preview/15716766494817007963?node-id=08d90bcc04cc4718a56a5f3ac26d2478
+
+## Checklist da Disciplina
+
+- [x] Repositório criado no GitHub
+- [x] Projeto clonado localmente
+- [x] README.md atualizado
+- [x] package.json criado com npm init
+- [x] Dependências instaladas com npm
+- [x] Commit realizado
+- [x] Push realizado
